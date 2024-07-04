@@ -18,3 +18,11 @@ CSS: Cascading Style Sheets (CSS3) is used to style the landing page, including 
 JavaScript: JavaScript is used to add interactivity and dynamic functionality to the landing page, such as smooth scrolling, form validation, and interactive elements.
 
 Wordpress: is used as a Content management System to manage and establish a well functioning websites.
+
+About
+About Description
+"Our car dealership project was inspired by a personal experience of struggling to find a reliable and comprehensive car buying platform. We aimed to create a user-friendly website that simplifies the car buying process. This project is part of our Portfolio Project for Holberton School, where we were challenged to develop a practical solution to a real-world problem."
+
+Team Member Links
+LinkedIn: https://www.linkedin.com/in/eldad-mamo/
+GitHub: https://github.com/eldadmamo
