@@ -66,7 +66,7 @@ Explore related projects that have inspired or contributed to the development of
 
 ## Licensing
 
-This project is licensed under the MIT License. For more details, refer to the [LICENSE](https://github.com/eldadmamo/MyLandingPage/LICENSE) file in the repository.
+This project is licensed under the MIT License. For more details, refer to the [LICENSE](https://github.com/eldadmamo/MyLandingPage/blob/master/LICENSE) file in the repository.
 
 ---
 
