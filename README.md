@@ -8,7 +8,7 @@ Welcome to the Hulemekina Car Dealership project! Our mission is to provide a us
 
 **Live Demo:** [Hulemekina Landing Page](https://github.com/eldadmamo/MyLandingPage)
 
-**Final Project Blog Article:** [Read the article here](#)
+**Final Project Blog Article:** [[Read the article here](#)](https://medium.com/@eldadfikre456/mekinaforsale-d7dabd9a8fb9)
 
 **Authors LinkedIn:**
 - Eldad Mamo: [LinkedIn](https://www.linkedin.com/in/eldad-mamo/)
@@ -62,11 +62,11 @@ We welcome contributions to enhance the functionality and user experience of our
 
 Explore related projects that have inspired or contributed to the development of Hulemekina:
 
-- [Mekinaforsale](https://github.com/eldadmamo/Mekinaforsale)
+- [Mekina.com](https://www.mekina.net/)
 
 ## Licensing
 
-This project is licensed under the MIT License. For more details, refer to the [LICENSE](https://github.com/eldadmamo/MyLandingPage/blob/main/LICENSE) file in the repository.
+This project is licensed under the MIT License. For more details, refer to the [LICENSE](https://github.com/eldadmamo/MyLandingPage/LICENSE) file in the repository.
 
 ---
 
@@ -76,8 +76,8 @@ This project is licensed under the MIT License. For more details, refer to the [
 
 Technologies Used:
 
-- HTML:** The landing page structure is built using HTML5, which provides semantic markup and accessibility features.
-- CSS:** Cascading Style Sheets (CSS3) is used to style the landing page, including layout, typography, colors, and animations.
+- **HTML:** The landing page structure is built using HTML5, which provides semantic markup and accessibility features.
+- **CSS:** Cascading Style Sheets (CSS3) is used to style the landing page, including layout, typography, colors, and animations.
 - **JavaScript:** JavaScript is used to add interactivity and dynamic functionality to the landing page, such as smooth scrolling, form validation, and interactive elements.
 - **WordPress:** Used as a Content Management System to manage and establish a well-functioning website.
 
